@@ -37,7 +37,7 @@
 
 [<img align="left" alt="kiranvaddi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja-raavi)](https://github.com/anuraghazra/github-readme-stats)
+[![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=raja-raavi)](https://github.com/raja-raavi-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/raja-raavi-882537253/
