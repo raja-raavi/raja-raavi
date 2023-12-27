@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer and passionate on devlopment 
 - 🔭 I’m currently working as a Software Engineer at Wipro.
-- 🌱 I’m currently learning Enterprise Web Development.
+- 🌱 I’m currently learning Web Development.
 - 🥅 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to play PC Games.
 
