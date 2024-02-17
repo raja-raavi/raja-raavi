@@ -15,7 +15,6 @@
 ### Frameworks
 * Angular
 * Spring Boot
-* Node.js
 
 ### Databases
 * MySQL
@@ -25,6 +24,7 @@
 ### Tools and IDEs
 * Visual Studio
 * VS Code
+* Servicenow
 * Eclipse
 * Jupyter Notebook
 ### Miscellaneous
