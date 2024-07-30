@@ -1,4 +1,4 @@
-## Hi there, I'm Raja Raavi. 👋
+## Hello there, I'm Raja Raavi. 👋
 
 ### I'm a Software Engineer and passionate on devlopment 
 - 🔭 I’m currently working as a Software Engineer at Wipro.
