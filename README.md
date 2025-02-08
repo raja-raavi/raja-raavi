@@ -12,8 +12,9 @@
 * Java
 * Python
 
-### Frameworks
-* Angular
+### Frameworks & libraries
+* Angular 14
+* React 18
 * Spring Boot
 
 ### Databases
